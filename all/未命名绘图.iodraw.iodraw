@@ -31,7 +31,7 @@
             <mxPoint x="210" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKenvpWTgdBNa9Z49PKv-10" value="脚本提取关联提交号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-10" value="根据提交号排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
