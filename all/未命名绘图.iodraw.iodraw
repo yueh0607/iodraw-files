@@ -16,7 +16,7 @@
         <mxCell id="JKenvpWTgdBNa9Z49PKv-6" value="AI自动提取堆栈和错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JKenvpWTgdBNa9Z49PKv-7" value="脚本提取关联提交号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-7" value="脚本提取关联版本号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JKenvpWTgdBNa9Z49PKv-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JKenvpWTgdBNa9Z49PKv-4" target="JKenvpWTgdBNa9Z49PKv-6">
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="JKenvpWTgdBNa9Z49PKv-10" value="根据提交号排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-11" value="回退仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
