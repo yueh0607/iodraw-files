@@ -79,7 +79,7 @@
         <mxCell id="JKenvpWTgdBNa9Z49PKv-22" value="TAPD评论提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JKenvpWTgdBNa9Z49PKv-23" value="TAPD评论提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-23" value="TAPD关联提交Diff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
