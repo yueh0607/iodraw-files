@@ -5,13 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JKenvpWTgdBNa9Z49PKv-1" value="TAPD评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JKenvpWTgdBNa9Z49PKv-2" value="TAPD提交关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JKenvpWTgdBNa9Z49PKv-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="150" width="200" height="200" as="geometry" />
+          <mxGeometry x="490" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
