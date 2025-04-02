@@ -125,7 +125,7 @@
             <mxPoint x="680" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKenvpWTgdBNa9Z49PKv-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-36" value="打分&lt;div&gt;原因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="120" height="260" as="geometry" />
         </mxCell>
       </root>
