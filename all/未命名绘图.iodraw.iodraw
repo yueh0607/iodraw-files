@@ -108,7 +108,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JKenvpWTgdBNa9Z49PKv-29" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="220" height="260" as="geometry" />
+          <mxGeometry x="440" y="120" width="220" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="JKenvpWTgdBNa9Z49PKv-30" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="220" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
